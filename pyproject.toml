@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "email-backend"
+version = "0.1.0"
+description = "Silent email backend for GPS location app"
+
+[tool.poetry.dependencies]
+python = ">=3.11"
+flask = ">=3.0.0"
+gunicorn = ">=21.0.0"

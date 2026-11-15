@@ -1,0 +1,14 @@
+<resources>
+    <style name="Theme.Shorts" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#FF3347</item>
+        <item name="android:statusBarColor">#101014</item>
+        <item name="android:navigationBarColor">#101014</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">#101014</item>
+        <item name="android:windowSplashScreenBackground">#101014</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/greeting_logo</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">#FF3347</item>
+    </style>
+</resources>

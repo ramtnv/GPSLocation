@@ -1,0 +1,19 @@
+# Gradle
+.gradle/
+build/
+app/build/
+*.apk
+*.aab
+
+# IDE
+.idea/
+.vscode/
+*.iml
+local.properties
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
